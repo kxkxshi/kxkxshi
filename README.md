@@ -1,6 +1,6 @@
 Hi there, I'm Pradeep AV A 👋
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/pradeepava">
-<img align="left" alt="Pradeep's LinkedIn" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/pradeepava">
+<img align="left" alt="Pradeep's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/linkedin.svg" />
 </a>
 <br/>
 <br/>
@@ -100,6 +100,7 @@ Python, React.js, HTML/CSS, Bootstrap
 
 🔥 My GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Pradeep's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Pradeep's GitHub Stats" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages" />
+
 </p>
