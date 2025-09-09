@@ -1,5 +1,5 @@
 # Hi there, I'm Pradeep AV A 👋
-<a href="https://www.linkedin.com/in/pradeepava/">
+<a href="https://www.linkedin.com/in/pradeepava/">LinkedIn
 <img align="left" alt="Pradeep's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br/>
@@ -36,4 +36,5 @@ Here are some of the projects I've worked on. I'm always looking to build more!
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxkxshi&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
+
 
