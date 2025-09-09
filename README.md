@@ -33,6 +33,7 @@ Here are some of the projects I've worked on. I'm always looking to build more!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kxkxshi&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Pradeep's GitHub Stats" />
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxkxshi&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
+
