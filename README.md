@@ -1,9 +1,5 @@
 Hi there, I'm Pradeep AV A 👋
-<a href="https://www.linkedin.com/in/pradeepava">
-<img align="left" alt="Pradeep's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
-</a>
-<br/>
-<br/>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/pradeepava"> <img align="left" alt="Pradeep's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" /> </a> <br/> <br/>
 
 I'm a passionate and driven student pursuing a Master's in Artificial Intelligence, with a strong foundation in AI, Data Science, and Full-Stack Web Development. I enjoy building innovative solutions that solve real-world problems, from creating secure authentication systems to developing helpful tools for agriculture.
 
@@ -18,58 +14,6 @@ I'm a passionate and driven student pursuing a Master's in Artificial Intelligen
 
 📫 How to reach me: a.v.a.pradeep26@gmail.com
 
-🛠️ My Tech Stack
-Here are a few technologies I've been working with recently:
-
-Frontend
-
-Backend
-
-Databases
-
-Languages
-
-Tools & Other
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 💻 My Projects
 Here are some of the projects I've worked on. I'm always looking to build more!
@@ -80,9 +24,21 @@ Description
 
 Tech Stack
 
+E-Commerce Website With AI Product Recommendation using Gaze Analysis
+
+
+
 Web Based Facial Authentication
 
+A smart e-commerce platform that recommends products by analyzing users’ gaze patterns in real-time.
+
+
+
 A secure login system using liveness detection to prevent spoofing, implemented as a Chrome Extension.
+
+Python, React.js, Node.js, Express.js, MySQLBootstrap,HTML/CSS
+
+
 
 Python, React.js, Bootstrap
 
@@ -99,14 +55,4 @@ A web-based tool for farmers to identify plant diseases by uploading leaf images
 Python, React.js, HTML/CSS, Bootstrap
 
 🔥 My GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Pradeep's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages" />
-
-</p>
-
-
-
-
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api%3Fkxkxshi%3Dkxkxshi%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Pradeep's GitHub Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages" /> </p>
