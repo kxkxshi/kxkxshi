@@ -1,7 +1,6 @@
 Hi there, I'm Pradeep AV A 👋
 <a href="https://www.linkedin.com/in/pradeepava">
-<img align="left" alt="Pradeep's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"></path>
-</svg>" />
+<img align="left" alt="Pradeep's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
 <br/>
 <br/>
@@ -105,6 +104,7 @@ Python, React.js, HTML/CSS, Bootstrap
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages" />
 
 </p>
+
 
 
 
