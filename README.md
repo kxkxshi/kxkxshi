@@ -21,10 +21,13 @@ Here are some of the projects I've worked on. I'm always looking to build more!
 
 | Project Name                  | Description                                                                                                                                         | Tech Stack                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **AI-Powered-Realtime-Hospital-Management-System** | AI-powered hospital management system that enables real-time patient monitoring, automated workflows, and intelligent decision support.                                                  | `Python`, `Flask`, `OpenAI API`, `HTML/CSS`, `JavaScript`, `SQLite`, `Bootstrap`        |
+| **AI-Client-Proposal-Generator** | AI-powered tool that generates professional client proposals instantly based on user input and requirements.                                                   | `JavaScript`, `Node.js`, `Express.js`, `OpenAI API`, `HTML/CSS`, `Bootstrap`        |
 | **E-Commerce Platform with AI Product Recomendation using Gaze Analysis** | A smart e-commerce platform that recommends products by analyzing users’ gaze patterns in real-time.                                                   | `Python`, `React.js`, `Node.js`, `Express.js`, `MySQL`, `Bootstrap`        |
+| **Plant Leaf Disease Detection**  | A web-based tool for farmers to identify plant diseases by uploading leaf images, powered by a machine learning model.                                    | `Python`, `React.js`, `HTML/CSS`, `Bootstrap`                              |
 | **Web Based Facial Authentication** | A secure login system using liveness detection to prevent spoofing, implemented as a Chrome Extension.                                                   | `Python`, `React.js`, `Bootstrap`                                          |
 | **Realtime Chat App**             | A full-featured chat application allowing users to send messages and media in real-time.                                                                 | `ReactJS`, `Node.js`, `WebSocket`, `Express.js`                            |
-| **Plant Leaf Disease Detection**  | A web-based tool for farmers to identify plant diseases by uploading leaf images, powered by a machine learning model.                                    | `Python`, `React.js`, `HTML/CSS`, `Bootstrap`                              |
+
 
 ---
 
