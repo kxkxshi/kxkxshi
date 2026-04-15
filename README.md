@@ -19,7 +19,7 @@ I'm a passionate and driven student pursuing a Master's in Artificial Intelligen
 
 Here are some of the projects I've worked on. I'm always looking to build more!
 
-| Project Name                  | Description                                                                                                                                         | Tech Stack                                                                 |
+| Project Name                  | Description                                                                                                                                          | Tech Stack                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | **AI-Powered-Realtime-Hospital-Management-System** | AI-powered hospital management system that enables real-time patient monitoring, automated workflows, and intelligent decision support.                                                  | `Python`, `Flask`, `OpenAI API`, `HTML/CSS`, `JavaScript`, `SQLite`, `Bootstrap`        |
 | **AI-Client-Proposal-Generator** | AI-powered tool that generates professional client proposals instantly based on user input and requirements.                                                   | `JavaScript`, `Node.js`, `Express.js`, `OpenAI API`, `HTML/CSS`, `Bootstrap`        |
