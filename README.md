@@ -10,7 +10,7 @@ I'm a passionate and driven student pursuing a Master's in Artificial Intelligen
 - 🎓 I'm currently pursuing my **Master of Technology in Artificial Intelligence** at Hindustan Institute of Science and Technology.  
 - 🎓 I hold a **Bachelor of Technology in Artificial Intelligence and Data Science** from J.N.N Institute of Engineering.  
 - 💡 I'm interested in **Web Development, Machine Learning, Cloud Security, and the Internet of Things (IoT).**  
-- 🤝 I'm looking to collaborate on exciting projects in the **AI and web development space.**  
+- 🤝 I'm looking to collaborate on exciting projects in the **AI and web development space.**   
 - 📧 How to reach me: **a.v.a.pradeep26@gmail.com** 
  
 ---
