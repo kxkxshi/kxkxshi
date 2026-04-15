@@ -16,7 +16,7 @@ I'm a passionate and driven student pursuing a Master's in Artificial Intelligen
 ---
 
 ## 💻 My Projects
-
+ 
 Here are some of the projects I've worked on. I'm always looking to build more!
 
 | Project Name                  | Description                                                                                                                                          | Tech Stack                                                                 |
