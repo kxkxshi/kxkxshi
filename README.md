@@ -13,7 +13,7 @@ I'm a passionate and driven student pursuing a Master's in Artificial Intelligen
 - 🤝 I'm looking to collaborate on exciting projects in the **AI and web development space.**   
 - 📧 How to reach me: **a.v.a.pradeep26@gmail.com** 
  
----
+--- 
 
 ## 💻 My Projects
  
