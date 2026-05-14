@@ -1,4 +1,4 @@
-# Hi there, I'm Pradeep A V A 👋
+# Hi there, I'm Pradeep A V A
 
 </a>
 <br/>
@@ -7,7 +7,7 @@
 I'm a passionate and driven student pursuing a Master's in Artificial Intelligence, with a strong foundation in AI, Data Science, and Full-Stack Web Development. I enjoy building innovative solutions that solve real-world problems, from creating secure authentication systems to developing helpful tools for agriculture. 
  
 ## 🚀 About Me
-- 🎓 I'm currently pursuing my **Master of Technology in Artificial Intelligence** at Hindustan Institute of Science and Technology.  
+- 🎓 I completed my **Master of Technology in Artificial Intelligence** at Hindustan Institute of Science and Technology.  
 - 🎓 I hold a **Bachelor of Technology in Artificial Intelligence and Data Science** from J.N.N Institute of Engineering.  
 - 💡 I'm interested in **Web Development, Machine Learning, Cloud Security, and the Internet of Things (IoT).**  
 - 🤝 I'm looking to collaborate on exciting projects in the **AI and web development space.**   
